@@ -20,6 +20,15 @@ section{
     border-radius: 5px;
 
 }
+#link-button2{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    color: white;
+    font-size: 700;
+    padding: 10px 40px;
+    border-radius: 5px;
+
+}
 
 .top-banner{
     background-image: url(images/download.png);
