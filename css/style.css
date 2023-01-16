@@ -1,8 +1,41 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
+
+#nav-area{
+    margin-top: 0;
+    margin-left: 5%;
+    background-color: black;
+    text-align: center;
+  
+   
+}
+
+  
+
+ul{
+    text-decoration: none;
+    display: flex;
+    background-color: black;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    margin-bottom: 200px
+
+    
+}
+
+li{
+    padding: 20px;
+    color: aliceblue;
+    padding-left: 5%;
+    margin-right: 0px;
+    text-decoration: none;
+}
 section{
-    display:flex;
+    padding-top: 5%;
+    display: flex;
+   
 }
 .Half-width{
     width: 50%;
@@ -38,4 +71,20 @@ section{
     box-shadow: 5px;
     border-left: 5px;
     border-color: blue;
+}
+#experiance-area{
+    margin-left: 5%;
+    padding-left: 5%;
+}
+#experiance-title{
+    text-align: center;
+}
+#footer-area{
+    
+   background-color: black;
+    color: aliceblue;
+    margin-left: 5%;
+    text-align: center;
+    padding: 5%;
+
 }
